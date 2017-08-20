@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!-- sample for the config file -->
+<data>
+  <client ip='' port='' username='' password='' mail=''>
+  	<alert type="memory" limit="5%" />
+  	<alert type="cpu" limit="10%" />
+  </client>
+</data>
